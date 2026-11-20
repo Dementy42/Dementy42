@@ -1,4 +1,4 @@
-# Dmitry Plotnikov
+# Dmitrii Plotnikov
 
 ## Python Engineer | Data / Simulation / Industrial Systems
 
